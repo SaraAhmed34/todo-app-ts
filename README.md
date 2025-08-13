@@ -1,7 +1,5 @@
 # 📝 Todo App (TypeScript)
 
-# 📝 Todo App (TypeScript)
-
 A simple CLI-based Todo application built with **Node.js** and **TypeScript**.  
 This app allows you to add, list, mark as done, and delete tasks — all from the terminal.
 
